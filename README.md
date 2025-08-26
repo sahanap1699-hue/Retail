@@ -48,7 +48,7 @@ Key questions addressed:
 
 📑 **Detailed Results**  
 
-👉 See the Project_Report Pdf for insights, business findings, and dashboard snapshots.  
+👉 See the Project_Report_Retail Pdf for insights, business findings, and dashboard snapshots.  
 
 
 
