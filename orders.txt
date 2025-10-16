@@ -1,0 +1,4 @@
+create table order(
+ordered int(10),
+name varchar(20)
+);

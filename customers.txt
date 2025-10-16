@@ -1,0 +1,4 @@
+create table customers(
+name varchar(20),
+id int(10)
+);
